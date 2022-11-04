@@ -1,0 +1,36 @@
+c:\users\casper\documents\visual studio 2010\Projects\WindowsFormsApplication23\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe
+c:\users\casper\documents\visual studio 2010\Projects\WindowsFormsApplication23\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.pdb
+c:\users\casper\documents\visual studio 2010\Projects\WindowsFormsApplication23\WindowsFormsApplication23\obj\x86\Debug\WindowsFormsApplication23.Form1.resources
+c:\users\casper\documents\visual studio 2010\Projects\WindowsFormsApplication23\WindowsFormsApplication23\obj\x86\Debug\WindowsFormsApplication23.Properties.Resources.resources
+c:\users\casper\documents\visual studio 2010\Projects\WindowsFormsApplication23\WindowsFormsApplication23\obj\x86\Debug\WindowsFormsApplication23.csproj.GenerateResource.Cache
+c:\users\casper\documents\visual studio 2010\Projects\WindowsFormsApplication23\WindowsFormsApplication23\obj\x86\Debug\WindowsFormsApplication23.exe
+c:\users\casper\documents\visual studio 2010\Projects\WindowsFormsApplication23\WindowsFormsApplication23\obj\x86\Debug\WindowsFormsApplication23.pdb
+C:\Users\CASPER\Documents\Visual Studio 2010\Projects\WindowsFormsApplication23\WindowsFormsApplication23\obj\x86\Debug\WindowsFormsApplication23.csprojResolveAssemblyReference.cache
+C:\Users\CASPER\Documents\Visual Studio 2010\Projects\proje\WindowsFormsApplication23\obj\x86\Debug\WindowsFormsApplication23.exe
+C:\Users\CASPER\Documents\Visual Studio 2010\Projects\proje\WindowsFormsApplication23\obj\x86\Debug\WindowsFormsApplication23.pdb
+C:\Users\CASPER\Documents\Visual Studio 2010\Projects\proje\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe
+C:\Users\CASPER\Documents\Visual Studio 2010\Projects\proje\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.pdb
+C:\Users\CASPER\Documents\Visual Studio 2010\Projects\proje\WindowsFormsApplication23\obj\x86\Debug\WindowsFormsApplication23.csprojResolveAssemblyReference.cache
+C:\Users\CASPER\Documents\Visual Studio 2010\Projects\proje\WindowsFormsApplication23\obj\x86\Debug\WindowsFormsApplication23.Form1.resources
+C:\Users\CASPER\Documents\Visual Studio 2010\Projects\proje\WindowsFormsApplication23\obj\x86\Debug\WindowsFormsApplication23.Properties.Resources.resources
+C:\Users\CASPER\Documents\Visual Studio 2010\Projects\proje\WindowsFormsApplication23\obj\x86\Debug\WindowsFormsApplication23.csproj.GenerateResource.Cache
+C:\Users\CASPER\Documents\Visual Studio 2010\Projects\proje\WindowsFormsApplication23\bin\Debug\Interop.WMPLib.dll
+C:\Users\CASPER\Documents\Visual Studio 2010\Projects\proje\WindowsFormsApplication23\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\CASPER\Documents\Visual Studio 2010\Projects\proje\WindowsFormsApplication23\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\CASPER\Documents\Visual Studio 2010\Projects\proje\WindowsFormsApplication23\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\CASPER\Documents\Visual Studio 2010\Projects\proje\WindowsFormsApplication23\obj\x86\Debug\WindowsFormsApplication23.csproj.ResolveComReference.cache
+C:\Users\CASPER\Desktop\proje\WindowsFormsApplication23\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\CASPER\Desktop\proje\WindowsFormsApplication23\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\CASPER\Desktop\proje\WindowsFormsApplication23\obj\x86\Debug\WindowsFormsApplication23.csproj.ResolveComReference.cache
+C:\Users\CASPER\Desktop\proje\WindowsFormsApplication23\obj\x86\Debug\WindowsFormsApplication23.exe
+C:\Users\CASPER\Desktop\proje\WindowsFormsApplication23\obj\x86\Debug\WindowsFormsApplication23.pdb
+C:\Users\CASPER\Desktop\performans ödevi\WindowsFormsApplication23\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\CASPER\Desktop\performans ödevi\WindowsFormsApplication23\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\CASPER\Desktop\performans ödevi\WindowsFormsApplication23\obj\x86\Debug\WindowsFormsApplication23.csproj.ResolveComReference.cache
+C:\Users\CASPER\Desktop\performans ödevi\WindowsFormsApplication23\obj\x86\Debug\WindowsFormsApplication23.exe
+C:\Users\CASPER\Desktop\performans ödevi\WindowsFormsApplication23\obj\x86\Debug\WindowsFormsApplication23.pdb
+C:\Users\CASPER\Desktop\performans ödevi benim\WindowsFormsApplication23\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\CASPER\Desktop\performans ödevi benim\WindowsFormsApplication23\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\CASPER\Desktop\performans ödevi benim\WindowsFormsApplication23\obj\x86\Debug\WindowsFormsApplication23.csproj.ResolveComReference.cache
+C:\Users\CASPER\Desktop\performans ödevi benim\WindowsFormsApplication23\obj\x86\Debug\WindowsFormsApplication23.exe
+C:\Users\CASPER\Desktop\performans ödevi benim\WindowsFormsApplication23\obj\x86\Debug\WindowsFormsApplication23.pdb
